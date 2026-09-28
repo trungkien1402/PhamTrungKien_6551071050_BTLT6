@@ -1,0 +1,36 @@
+D:\Cau_6\bin\Debug\net10.0-windows\Cau_6.exe
+D:\Cau_6\bin\Debug\net10.0-windows\Cau_6.deps.json
+D:\Cau_6\bin\Debug\net10.0-windows\Cau_6.runtimeconfig.json
+D:\Cau_6\bin\Debug\net10.0-windows\Cau_6.dll
+D:\Cau_6\bin\Debug\net10.0-windows\Cau_6.pdb
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.Form1.resources
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.FormGhiChu.resources
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.csproj.GenerateResource.cache
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.AssemblyInfoInputs.cache
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.AssemblyInfo.cs
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.csproj.CoreCompileInputs.cache
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.dll
+D:\Cau_6\obj\Debug\net10.0-windows\refint\Cau_6.dll
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.pdb
+D:\Cau_6\obj\Debug\net10.0-windows\Cau_6.genruntimeconfig.cache
+D:\Cau_6\obj\Debug\net10.0-windows\ref\Cau_6.dll
+D:\C#\BTLT6\Câu 6\Cau_6\bin\Debug\net10.0-windows\Cau_6.exe
+D:\C#\BTLT6\Câu 6\Cau_6\bin\Debug\net10.0-windows\Cau_6.deps.json
+D:\C#\BTLT6\Câu 6\Cau_6\bin\Debug\net10.0-windows\Cau_6.runtimeconfig.json
+D:\C#\BTLT6\Câu 6\Cau_6\bin\Debug\net10.0-windows\Cau_6.dll
+D:\C#\BTLT6\Câu 6\Cau_6\bin\Debug\net10.0-windows\Cau_6.pdb
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.Form1.resources
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.FormGhiChu.resources
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.csproj.GenerateResource.cache
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.AssemblyInfoInputs.cache
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.AssemblyInfo.cs
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.csproj.CoreCompileInputs.cache
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.sourcelink.json
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.dll
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\refint\Cau_6.dll
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.pdb
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.genruntimeconfig.cache
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\ref\Cau_6.dll
+D:\C#\BTLT6\Câu 6\Cau_6\obj\Debug\net10.0-windows\Cau_6.csproj.Up2Date
